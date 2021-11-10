@@ -1,0 +1,81 @@
+.Resume {
+    background-color:black;
+}
+
+.Resume__content h1 {
+    font-size: 3rem;
+    background-color: black;
+    background-image: linear-gradient(to top, ghostwhite 0%, rgb(4, 109, 104) 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.Resume__content h2 {
+    font-size: 2rem;
+    background-color: black;
+    background-image: linear-gradient(to top, ghostwhite 0%, rgb(236, 47, 14) 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.Resume__content h3 {
+    font-size: 2rem;
+    background-color: black;
+    background-image: linear-gradient(to top, ghostwhite 0%, rgb(236, 47, 14) 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.Resume__content h4 {
+    font-size: 2rem;
+    background-color: black;
+    background-image: linear-gradient(to top, ghostwhite 0%, rgb(236, 47, 14) 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.Resume__content h5 {
+    font-size: 2rem;
+    background-color: black;
+    background-image: linear-gradient(to top, ghostwhite 0%, rgb(236, 47, 14) 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.Resume__content h6 {
+    font-size: 2rem;
+    background-color: black;
+    background-image: linear-gradient(to top, ghostwhite 0%, rgb(236, 47, 14) 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.Resume__content p {
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+    color: ghostwhite;
+}
+
+#Resume__img {
+    height: 200px;
+    width:200px;
+}

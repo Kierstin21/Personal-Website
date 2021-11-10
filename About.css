@@ -1,0 +1,37 @@
+.About {
+    background-color:black;
+}
+
+.About__content h1 {
+    font-size: 3rem;
+    background-color: black;
+    background-image: linear-gradient(to top, ghostwhite 0%, rgb(4, 109, 104) 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.About__content h2 {
+    font-size: 2.5rem;
+    background-color: black;
+    background-image: linear-gradient(to top, ghostwhite 0%, rgb(236, 47, 14) 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.About__content p {
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+    color: ghostwhite;
+}
+
+#about__img {
+    height: auto;
+    width: 100%;
+}

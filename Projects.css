@@ -1,0 +1,21 @@
+.Projects {
+    background-color:black;
+}
+
+.Projects__content h1 {
+    font-size: 4rem;
+    background-color: black;
+    background-image: linear-gradient(to top, ghostwhite 0%, rgb(4, 109, 104) 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.Projects__content p {
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+    color: ghostwhite;
+}
